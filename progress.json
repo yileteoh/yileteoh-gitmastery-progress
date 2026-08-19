@@ -303,5 +303,14 @@
       "Missing annotated tag \"v1.0\"."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787126446.155243,
+    "completed_at": 1787126449.026195,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
