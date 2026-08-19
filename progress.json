@@ -294,14 +294,5 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-add",
-    "started_at": 1787126250.967065,
-    "completed_at": 1787126255.762362,
-    "comments": [
-      "\"first-pilot\" should point to the first commit."
-    ],
-    "status": "Incomplete"
   }
 ]
