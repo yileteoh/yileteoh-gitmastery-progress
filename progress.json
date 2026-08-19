@@ -393,5 +393,14 @@
       "Great work with merging the branches in order! Try running the HTML files locally!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1787158095.136085,
+    "completed_at": 1787158098.295467,
+    "comments": [
+      "Great work with undoing the merges! Try listing the directory to see what has changed."
+    ],
+    "status": "Completed"
   }
 ]
